@@ -1,0 +1,103 @@
+html{
+    background-color: #CD1056;
+}
+body{
+    margin: 2em 4em !important;
+}
+.navbar-modif{
+    background-color:black;
+    color: white;
+    padding: 1em 3.5em !important;
+}
+.navbar-toggler-icon-modif{
+    background-image: url('../img/hamb-menu-icon.png') !important;
+}
+.nav-item-modif{
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 700;
+    font-size: 1.1em;
+    color: white;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+    text-decoration: none;
+}
+.nav-link-modif:hover{
+    color: #bc0056 !important;
+}
+.nav-link-modif:active{
+    color: #f6b006 !important;
+}
+main{
+    background-color: white;
+    padding: 50px 70px !important;
+}
+.h1-modif{
+    font-family: 'Red Hat Display', sans-serif;
+    color: black;
+    font-weight: 900;
+    font-size: 4em;
+}
+.h2-modif{
+    font-family: 'Red Hat Display', sans-serif;
+    color: black;
+    font-weight: 900;
+}
+.h5-modif{
+    font-family: 'Red Hat Display', sans-serif;
+    color: black;
+    font-weight: 900;
+    font-size: 1.3em;
+}
+.p-modif{
+    font-family: 'Red Hat Display', sans-serif;
+    color: #606060;
+}
+.p-contacto-modif{
+    font-family: 'Red Hat Display', sans-serif;
+    color: #bc0056;
+}
+.card-text-modif{
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 500;
+    color: black;
+}
+.card-modif{
+    background-color: #e6e6e6 !important;
+    border-radius: 0 !important;
+    border-style: none !important;
+}
+.card-img-top-modif{
+    border-radius: 0 !important;
+}
+.btn-modif{
+    background-color: #bc0056 !important;
+    border-radius: 0 !important;
+    font-family: 'Red Hat Display', sans-serif !important;
+    font-weight: 500;
+    color: white;
+}
+.btn-destacado-modif{
+    background-color: #bc0056 !important;
+    border-radius: 0 !important;
+    font-family: 'Red Hat Display', sans-serif !important;
+    font-weight: 800 !important;
+    font-size: 1.2em !important;
+    color: white;
+}
+.iframe-modif{
+    margin-bottom: 2em;
+}
+.copyright{
+    font-family: 'Red Hat Display', sans-serif;
+    color: white;
+    font-size: 0.7em;
+    font-weight: 600;
+    margin-top: 1em;
+    position: absolute;
+    right: 120px;
+}
